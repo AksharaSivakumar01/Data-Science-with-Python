@@ -1,0 +1,13 @@
+Displacement :Increasing the engine displacement is a great way to improve power potential. If an engine can move more air, it can burn more fuel and make more power.
+
+weight: weight might decrease the mpg.
+
+cylinder: each cylinder is connected to a crankshaft. The crankshaft delivers the energy created by the combustion process to the transmission and ultimately to the wheels that drive the vehicle. Generally speaking, the more cylinders an engine has the more horsepower and torque an engine makes.
+
+Acceleration: The more horsepower a car produces the better its accelaeration.
+
+Mpg and Horsepower: the slope of -0.08 indicates tht gas milege decreases abt 0.08 miles per gallon for each additionalhorsepower in the engine, on the average . In addition, we see the corelation coef  , r= - 0.869 which indicates a strong neg relationship.
+
+
+max 4 cylinder vehicles are there.
+only america has 8 cylinder vehicle.
